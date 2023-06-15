@@ -1,14 +1,14 @@
 Formatters for Text Fields 
 ===========
 
-Three different types of formatting for text fields are supported by a custom text field formatter.
+A text field formatter can support two alternative styles of formatting for text fields.
 
 Features 
 --------
 
-There are two different types of formatters: * *ROT13* Apply formatters by rotating text characters by 13.
-
-    * *Slugify* Add a slug to the text.
+There are two different types of formatters: 
+* *ROT13* Apply formatters by rotating text characters by 13.
+* *Slugify* Add a slug to the text.
 
 Installation 
 ============
