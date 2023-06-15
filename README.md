@@ -6,12 +6,9 @@ Three different types of formatting for text fields are supported by a custom te
 Features 
 --------
 
-There are three different types of formatters: * *ROT13* Apply formatters by rotating text characters by 13.
+There are two different types of formatters: * *ROT13* Apply formatters by rotating text characters by 13.
 
     * *Slugify* Add a slug to the text.
-
-    Add a tooltip to the text with this code: *.
-
 
 Installation 
 ============
