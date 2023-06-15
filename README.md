@@ -19,7 +19,6 @@ Dependencies
 Please install these Libraries:
 - (http://drupal.org/project/libraries) - [Libraries API]
 - [Slugify] (available at http://packagist.org/packages/cocur/slugify)
-- qTip2 is available at https://github.com/qTip2/qTip2.
 
 Tasks 
 ----- 
