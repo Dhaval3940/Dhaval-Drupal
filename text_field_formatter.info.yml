@@ -1,0 +1,9 @@
+name: text field formatter
+description: Three different types of formatting are possible with a text field formatter.
+package: Fields
+type: module
+core_version_requirement: ^8 || ^9 || ^10
+dependencies:
+ - text
+ - field
+ - libraries

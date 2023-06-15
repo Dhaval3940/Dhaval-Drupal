@@ -1,0 +1,9 @@
+{
+  "name": "drupal/text_field_formatter",
+  "description": "This text field formatter module enables the addition of three text field formatters.",
+  "type": "drupal-module",
+  "license": "MIT",
+  "require": {
+    "cocur/slugify": "^2.5",
+  },
+}
